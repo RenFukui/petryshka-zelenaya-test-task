@@ -1,6 +1,6 @@
 # Тестовое задание - "Петрушка Зеленая"
 
-## Задание 1: Анализ требований (Корзина)
+## Задание 1: Анализ требований
 
 ### 1.1 Логические противоречия и недочёты
 
@@ -92,7 +92,7 @@ Accept: application/json
     {
       "id": "store_1",
       "name": "METRO",
-      "logo_url": "https://cdn.shop.ru/stores/metro.png",
+      "logo_url": "https://cdn.shop.ru/stores/metro-cc.png",
       "external_url": "https://metro-cc.ru",
       "delivery_info": {
         "type": "scheduled",
@@ -107,7 +107,7 @@ Accept: application/json
     {
       "id": "store_2",
       "name": "Ашан",
-      "logo_url": "https://cdn.shop.ru/stores/ashan.png",
+      "logo_url": "https://cdn.shop.ru/stores/auchan.png",
       "external_url": "https://auchan.ru",
       "delivery_info": {
         "type": "scheduled",
@@ -122,7 +122,7 @@ Accept: application/json
     {
       "id": "store_3",
       "name": "ВкусВилл",
-      "logo_url": "https://cdn.shop.ru/stores/vkysvill.png",
+      "logo_url": "https://cdn.shop.ru/stores/vkusvill.png",
       "external_url": "https://vkusvill.ru",
       "delivery_info": {
         "type": "express",
@@ -138,7 +138,7 @@ Accept: application/json
     {
       "id": "store_4",
       "name": "ВИКТОРИЯ",
-      "logo_url": "https://cdn.shop.ru/stores/victoria.png",
+      "logo_url": "https://cdn.shop.ru/stores/victoria-group.png",
       "external_url": "https://victoria-group.ru",
       "delivery_info": {
         "type": "scheduled",
